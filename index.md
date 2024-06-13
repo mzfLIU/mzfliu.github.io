@@ -6,4 +6,4 @@ Hello! I am currently a PhD student in Northwestern University, where I am advis
 Before joining Northwestern, I was advised by [Prof Tang Xueyan](https://personal.ntu.edu.sg/asxytang/) as a research assistant. 
 I got my Bachelor's degreee in Applied Mathematics from National University of Singapore. 
 
-I have been working on scheduling problems: offline and online. I attempt to find improved solutions to some existing problems in one direction. In the other, I am also thinking of new variations of classic models. Going beyond scheduling problems, I am interested in learning mathematics (hopefully useful). 
+I have been working on scheduling problems: offline and online, by designing deterministic algorithms. I attempt to find improved solutions to some existing problems in one direction. In the other, I start to think of new variations of classic models. Going beyond scheduling problems, I am interested in learning mathematics (hopefully useful). 
