@@ -2,8 +2,6 @@
 layout: page
 title: ""
 ---
-![screenshot](ducks.webp)
-
 <img src="ducks.webp" width="300">
 
 Hello! I am currently a PhD student in Northwestern University, where I am advised by [Prof Samir Khuller](https://www.samirkhuller.com/) and co-advised by [Prof Varun Gupta](https://www.varungupta.info/) and [Prof Gruia Calinescu](http://www.cs.iit.edu/~calinesc/). 
