@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "MOZHENGFU's homepage"
+layout: page   
+title: ""
 ---
 <img src="ducks.webp" width="300">
 
