@@ -14,6 +14,6 @@ Conferences:
 Journals:
 
 <ul>
-  <li> <b>Mozhengfu Liu</b> and Xueyan Tang. 2022. <a href="publication/tpds2022.pdf">Busy-Time Scheduling on Heterogeneous Machines: Algorithms and Analysis</a>. IEEE Trans. Parallel Distrib. Syst. 33, 12 (Dec. 2022), 3942–3958. </li>
+  <li> <b>Mozhengfu Liu</b> and Xueyan Tang. 2022. <a href="/publication/tpds2022.pdf">Busy-Time Scheduling on Heterogeneous Machines: Algorithms and Analysis</a>. IEEE Trans. Parallel Distrib. Syst. 33, 12 (Dec. 2022), 3942–3958. </li>
 </ul>
 
