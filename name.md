@@ -1,1 +1,5 @@
-My name in Chinese is 
+---
+layout: page
+title: ""
+---
+My name in Chinese is 默
