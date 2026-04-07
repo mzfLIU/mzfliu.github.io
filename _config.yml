@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: publication.md, title: "Publication"}
-  - {file: cv.pdf, title: "CV"}
+  - {file: CV.pdf, title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:mozhengfuliu2027@u.northwestern.edu"}
