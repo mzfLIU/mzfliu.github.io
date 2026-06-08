@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 <ul>
-  <li> <b>Mozhengfu Liu</b>, Samir Khuller and Xueyan Tang. 2026. Online Span Minimization of Uniform Flexible Jobs. Accepted by SPAA. </li>
+  <li> <b>Mozhengfu Liu</b>, Samir Khuller and Xueyan Tang. 2026. Online Span Minimization of Uniform Flexible Jobs. Accepted by SPAA. See <a href="http://arxiv.org/abs/2606.06681">preprint</a> </li>
   <li> <b>Mozhengfu Liu</b> and Xueyan Tang. 2024. <a href="https://dl.acm.org/doi/10.1145/3700437?cid=99659784263">Tight Bounds for Dynamic Bin Packing with Predictions</a>. Proc. ACM Meas. Anal. Comput. Syst. 8, 3, Article 47 (December 2024), 28 pages. </li>
   <li> <b>Mozhengfu Liu</b> and Xueyan Tang. 2024. <a href="https://dl.acm.org/doi/10.1145/3626183.3660271?cid=99659784263">Brief Announcement: Tight bounds for Dynamic Bin Packing with Predictions</a>. In Proceedings of the 36th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA '24). Association for Computing Machinery, New York, NY, USA, 297–299. </li>
   <li> <b>Mozhengfu Liu</b> and Xueyan Tang. 2024. <a href="https://dl.acm.org/doi/10.1145/3626183.3660263?cid=99659784263">Brief Announcement: Scheduling Jobs for Minimum Span: Improved Bounds and Learning-Augmented Algorithms</a>. In Proceedings of the 36th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA '24). Association for Computing Machinery, New York, NY, USA, 141–143. </li>
