@@ -17,6 +17,7 @@ title: ""
   <li style="margin-bottom: 12px;">
     <strong>Mozhengfu Liu</strong>, Xueyan Tang. <strong><a href="https://dl.acm.org/doi/10.1145/3700437?cid=99659784263">Tight Bounds for Dynamic Bin Packing with Predictions</a></strong>.<br>
     <em>Proc. ACM on Measurement and Analysis of Computing Systems (POMACS)</em>, 2024.
+    [<a href="https://dl.acm.org/doi/10.1145/3726854.3727322">SIGMETRICS '25 Abstract</a>]
   </li>
 
   <li style="margin-bottom: 12px;">
