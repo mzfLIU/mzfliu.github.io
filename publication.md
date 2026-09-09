@@ -2,6 +2,7 @@
 layout: page
 title: ""
 ---
+<h3>Publications</h3>
 <ul>
   <li style="margin-bottom: 12px;">
     Gruia Calinescu, <strong>Mozhengfu Liu</strong>. <strong>Busy Time Minimization with Preemption, Migration, and One Resource Requirement</strong>.<br>
@@ -45,5 +46,13 @@ title: ""
     <strong>Mozhengfu Liu</strong>, Xueyan Tang. <strong><a href="https://dl.acm.org/doi/10.1145/3409964.3461795?cid=99659784263">Analysis of Busy-Time Scheduling on Heterogeneous Machines</a></strong>.<br>
     <em>ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)</em>, 2021. 
     [<a href="https://www.youtube.com/watch?v=f3FDzhTZvl0">Presentation</a>]
+  </li>
+</ul>
+
+<h3>Professional Service</h3>
+<ul>
+  <li style="margin-bottom: 12px;">
+    <strong>Shadow Committee Member</strong><br>
+    <em>ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)</em>, 2025, 2026
   </li>
 </ul>
