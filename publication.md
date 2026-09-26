@@ -7,6 +7,7 @@ title: ""
   <li style="margin-bottom: 12px;">
     Gruia Calinescu, <strong>Mozhengfu Liu</strong>. <strong>Busy Time Minimization with Preemption, Migration, and One Resource Requirement</strong>.<br>
     <em>International Symposium on Algorithms and Computation (ISAAC)</em>, 2026. 
+    [<a href="https://arxiv.org/abs/2609.23197">full version</a>]
   </li>
 
   <li style="margin-bottom: 12px;">
