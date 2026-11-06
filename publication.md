@@ -54,6 +54,6 @@ title: ""
 <ul>
   <li style="margin-bottom: 12px;">
     <strong>Shadow Committee Member</strong><br>
-    <em>ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)</em>, 2025, 2026
+    <em>ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)</em>, 2026, 2027
   </li>
 </ul>
